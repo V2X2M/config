@@ -1,0 +1,153 @@
+# Rime user dictionary
+#@/db_name	wubi86.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	426
+#@/user_id	6ba7db73-c9a0-4180-9e88-a0ca40a289a3
+b 	了	c=1 d=1 t=335
+bnde 	也有	c=1 d=1 t=222
+bnjg 	也是	c=1 d=1 t=293
+bnyt 	也许	c=1 d=0.878095 t=426
+cetd 	通知	c=1 d=1 t=421
+cf 	对	c=1 d=0.565525 t=426
+ditg 	大学生	c=1 d=1 t=295
+dklp 	右边	c=1 d=0.771052 t=426
+dqov 	大多数	c=1 d=1 t=294
+drgo 	原来	c=1 d=1 t=220
+e 	有	c=2 d=1.24259 t=426
+fhrq 	真的	c=1 d=0.449329 t=426
+fjtf 	进行	c=1 d=1 t=425
+fnog 	专业	c=3 d=1.497 t=426
+ftip 	教学	c=1 d=0.574072 t=426
+ftjb 	都	c=1 d=1 t=296
+gfq 	玩	c=1 d=0.927743 t=426
+ggwh 	一个	c=1 d=1 t=259
+ggwu 	一位	c=1 d=1 t=423
+ggyn 	一遍	c=1 d=0.99005 t=426
+gh 	下	c=1 d=1 t=380
+gice 	不能	c=1 d=0.451581 t=426
+gide 	还有	c=1 d=1 t=289
+gkde 	带有	c=2 d=1.93707 t=297
+gmf 	再	c=1 d=0.980199 t=426
+gmwh 	两个	c=1 d=0.798516 t=426
+gwjg 	一个是	c=1 d=1 t=290
+gyxe 	班级	c=1 d=0.571209 t=426
+hhnu 	上屏	c=1 d=1 t=333
+hhrq 	目的	c=1 d=0.551563 t=426
+i 	不	c=1 d=1 t=353
+iise 	消极	c=1 d=1 t=301
+ipad 	学期	c=2 d=0.965478 t=426
+ipsu 	学校	c=1 d=1 t=355
+iptj 	觉得	c=1 d=1 t=328
+ipwv 	学分	c=1 d=1 t=383
+j 	是	c=3 d=0.893388 t=426
+jgh 	是	c=1 d=0.882497 t=426
+jghu 	是	c=2 d=1.72253 t=260
+jgkb 	是啊	c=1 d=0.873716 t=426
+jmh 	帅	c=1 d=1 t=223
+kb 	啊	c=1 d=1 t=258
+kh 	中	c=2 d=1.36431 t=426
+kldn 	嗯	c=1 d=0.995012 t=426
+lgpe 	国家	c=1 d=0.960789 t=426
+lh 	四	c=1 d=0.839457 t=426
+lwdd 	加拿大	c=1 d=0.951229 t=426
+mgip 	同学	c=1 d=1 t=424
+mgjf 	同时	c=1 d=1 t=292
+mhgf 	由于	c=1 d=1 t=354
+nfd 	丑	c=1 d=1 t=224
+ngxf 	情绪	c=1 d=1 t=302
+ntrf 	性质	c=1 d=1 t=286
+p 	这	c=1 d=1 t=279
+pbtw 	字符	c=1 d=1 t=221
+pgn 	写	c=2 d=1.82335 t=426
+ppwv 	之分	c=1 d=1 t=225
+pu 	实	c=1 d=0.806541 t=426
+pud 	实	c=1 d=0.802519 t=426
+pugf 	写着玩	c=1 d=0.970446 t=426
+putf 	实行	c=1 d=1 t=382
+pvrd 	安排	c=1 d=0.57695 t=426
+r 	的	c=4 d=1.70769 t=426
+rbc 	报	c=1 d=1 t=265
+rhgo 	看来	c=1 d=0.436049 t=426
+rk 	扣	c=1 d=1 t=385
+rmhj 	制	c=1 d=1 t=384
+rn 	所	c=1 d=1 t=264
+rpqn 	按钮	c=1 d=0.794534 t=426
+rqyy 	的	c=2 d=0.729187 t=426
+sgtm 	本身	c=1 d=1 t=282
+su 	样	c=1 d=1 t=213
+tffu 	等	c=1 d=0.955997 t=426
+tfyj 	选课	c=3 d=1.39 t=426
+thfc 	自动	c=1 d=1 t=332
+thif 	算法	c=1 d=0.481909 t=426
+thtc 	怎么	c=1 d=1 t=212
+tlnt 	务必	c=1 d=1 t=420
+trjg 	我是	c=3 d=2.98506 t=199
+trnt 	我	c=3 d=1.9986 t=327
+trwu 	我们	c=3 d=1.08053 t=426
+txg 	每	c=1 d=1 t=422
+udh 	着	c=1 d=0.923116 t=426
+ujln 	意思	c=1 d=0.470011 t=426
+uqf 	将	c=2 d=1.92312 t=201
+uyh 	门	c=1 d=0.843665 t=426
+vbqq 	好多	c=1 d=1 t=334
+vebm 	退出	c=1 d=0.97531 t=426
+vkws 	如何	c=2 d=1.92312 t=200
+wdte 	优秀	c=1 d=0.484325 t=426
+wgvi 	登录	c=1 d=0.985112 t=426
+wh 	个	c=1 d=1 t=280
+wq 	你	c=1 d=1 t=210
+wsyc 	体育	c=1 d=0.694197 t=426
+xc 	经	c=2 d=1.98506 t=426
+xcvu 	疑难杂症	c=1 d=1 t=426
+xjm 	费	c=1 d=1 t=386
+yacw 	试验	c=1 d=1 t=285
+yge 	请	c=1 d=1 t=419
+yijg 	就是	c=1 d=1 t=283
+yjge 	课表	c=1 d=1 t=426
+yjs 	课	c=3 d=2.29615 t=426
+ykh 	训	c=1 d=0.810584 t=426
+encbyjg 	也许是	c=1 d=0.900325 t=426
+encbyjp 	也许是写	c=0 d=0.0904837 t=426
+encdgpw 	原来字符也有帅丑之分	c=1 d=1 t=257
+encdlde 	右边有	c=0 d=0.0774916 t=426
+encdtyr 	有选课的	c=0 d=0.0790571 t=426
+encduln 	有意思	c=1 d=0.479505 t=426
+encfgdr 	都带有的	c=1 d=1 t=300
+encfodl 	专业右边	c=0 d=0.0771052 t=426
+encfoyj 	专业课	c=1 d=0.763379 t=426
+encfrgc 	真的不能	c=1 d=0.465334 t=426
+encgiad 	下学期	c=0 d=0.1 t=381
+encgwjg 	一个是	c=1 d=1 t=262
+encgwpu 	两个实	c=0 d=0.0802519 t=426
+encgwvi 	再登录	c=0 d=0.0985112 t=426
+encgxfr 	班级教学安排	c=1 d=0.677057 t=426
+encisnx 	消极情绪	c=1 d=1 t=326
+encjtts 	是怎么样	c=0 d=0.1 t=219
+enckhrq 	中的	c=1 d=0.690734 t=426
+enclhuy 	四门	c=1 d=0.860708 t=426
+encluyj 	四门课	c=0 d=0.0865022 t=426
+enclwdp 	加拿大等国家	c=1 d=1 t=426
+encmgis 	由于学校	c=1 d=1 t=379
+encptix 	实行学分制扣费	c=1 d=1 t=418
+encpugf 	写着玩	c=1 d=0.965605 t=426
+encpuyk 	实训	c=1 d=0.83527 t=426
+encrgtw 	看来我们	c=1 d=0.447088 t=426
+encrqyp 	的这	c=0 d=0.1 t=279
+encrywh 	的这个	c=0 d=0.1 t=280
+enctfhb 	自动上屏好多了	c=1 d=1 t=351
+enctitj 	我觉得	c=1 d=1 t=331
+enctiwt 	算法优秀	c=1 d=0.546074 t=426
+enctjtj 	我是我是	c=0 d=0.1 t=198
+enctjvu 	我是如何将	c=1 d=1 t=209
+enctrjg 	我是	c=1 d=1 t=196
+encttsu 	怎么样	c=1 d=1 t=219
+enctwrr 	我们所报	c=1 d=1 t=277
+enctyhr 	选课目的	c=1 d=0.557106 t=426
+enctyrq 	选课的	c=1 d=0.790571 t=426
+encvbgm 	退出再	c=0 d=0.0980199 t=426
+encwqjg 	你是	c=0 d=0.1 t=211
+encwvgy 	登录一遍	c=0 d=0.099005 t=426
+encwyyj 	体育课	c=1 d=0.726149 t=426
+encxcxc 	经经	c=0 d=0.0995012 t=426
+encypwh 	这个	c=0 d=0.1 t=280

@@ -1,0 +1,14 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Fri Jul  5 23:44:31 2019"
+  rime_version: 1.5.3
+patch:
+  app_options:
+    cmd.exe: {ascii_mode: true}
+    code.exe: {ascii_mode: true}
+    conhost.exe: {ascii_mode: true}
+    gvim.exe: {ascii_mode: true}
+    wps: {ascii_mode: false}
+  "style/color_scheme": aqua

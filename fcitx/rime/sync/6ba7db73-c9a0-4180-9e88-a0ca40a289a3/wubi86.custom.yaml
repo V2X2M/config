@@ -1,0 +1,11 @@
+#wubi86.schema.yaml
+
+patch:
+  punctuator/import_preset: mysymbols
+  recognizer/patterns/punct: '^/([0-9]+|[A-Za-z]+)$'
+  punctuator/full_shape:
+    '\' : '、'
+    # "`": {commit: "·"}
+  punctuator/half_shape:
+    '\' : '、'
+    # "`": {commit: "·"}
